@@ -1,0 +1,71 @@
+body{
+  padding: 0px;
+  margin:0px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(56, 56, 56);
+}
+
+#top-bar{
+  background-color: darkgreen;
+  height: 35px;
+  width: 100%;
+  padding:5px;
+  color:white;
+}
+
+.toggle-button{
+  float:left;
+  padding:8px;
+  border: 1px solid white;
+}
+
+#button-container{
+  width: 333px;
+  margin: 0 auto;
+}
+
+#html{
+  border-top-left-radius: 10%;
+  border-bottom-left-radius: 10%;
+}
+
+#output{
+  border-top-right-radius: 10%;
+  border-bottom-right-radius: 10%;
+}
+
+#logo{
+  float:left;
+  font-weight: bold;
+  font-size: 25px;;
+}
+
+.highlated-button{
+  background-color: green;
+}
+
+.clicked-button{
+  background-color: rgb(140, 211, 127) !important;
+}
+
+.main-window{
+  resize: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
